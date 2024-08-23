@@ -12,3 +12,5 @@ or for nuclear option:
 # don't do this unless you know what you're doing
 Set-ExecutionPolicy Unrestricted
 ```
+
+<https://www.youtube.com/watch?v=FOuw3mSZFnU>
